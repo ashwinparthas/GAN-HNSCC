@@ -1,9 +1,9 @@
 # Improved Classification and Prediction of Head and Neck Squamous Cell Carcinomas Using A Novel Generative Adversarial Network Model
 
+## Purpose
 Develop a model that can take an input of HNSCC radiographic images and provide a diagnosis of the stage of cancer and the predicted stage progression of the disease with state-of-the-art accuracy.
 
-
-# Abstract:
+## Abstract
 
 Head and neck squamous cell carcinoma (HNSCC) is a cancer that arises from squamous cells in the head
 and neck region, a cell that is found in the outer layer of skin and in the mucous membranes. Diagnosis of
@@ -22,11 +22,15 @@ accuracy that is higher than the 90% achieved by machine learning architectures 
 sub-models.
 
 
-# Poster:
+## Poster:
+
+![HNSCC-Poster](https://user-images.githubusercontent.com/106894577/217686658-53e6e563-5539-4ecd-974a-1e738986b7db.jpg)
+
+### PDF Version of Poster:
 
 [HNSCC-Poster.pdf](https://github.com/ashwinparthas/GAN-HeadNeck-Cancer/files/10691349/HNSCC-Poster.pdf)
 
 
-# Research Paper:
+## Research Paper:
 
 [ISEF-Research-Paper.pdf](https://github.com/ashwinparthas/GAN-HeadNeck-Cancer/files/10691356/ISEF-Research-Paper.pdf)
