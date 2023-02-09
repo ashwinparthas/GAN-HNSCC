@@ -18,4 +18,12 @@ set, the distribution of model accuracy had a median of approximately 93.95% and
 accuracy that is higher than the 90% achieved by machine learning architectures that do not utilize multiple
 sub-models.
 
-[HNSCC Poster _21.pptx.pdf](https://github.com/ashwinparthas/GAN-HeadNeck-Cancer/files/10691342/HNSCC.Poster._21.pptx.pdf)
+
+# Poster:
+
+[HNSCC-Poster.pdf](https://github.com/ashwinparthas/GAN-HeadNeck-Cancer/files/10691349/HNSCC-Poster.pdf)
+
+
+# Research Paper:
+
+[ISEF-Research-Paper.pdf](https://github.com/ashwinparthas/GAN-HeadNeck-Cancer/files/10691356/ISEF-Research-Paper.pdf)
